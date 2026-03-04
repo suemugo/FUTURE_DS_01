@@ -22,3 +22,5 @@ GitHub
 Dashboard Preview
 
 
+![Dashboard Preview](dashboard/dashboard_image.png)
+
